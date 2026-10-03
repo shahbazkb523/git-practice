@@ -1,1 +1,2 @@
 Lab 2: Git and GitHub version control.
+I can create commits and push them to GitHub.
