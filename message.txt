@@ -1,1 +1,1 @@
-I am learning C#.
+I am learning Python and C#.
